@@ -1,4 +1,4 @@
-# Blok Patlatma
+# BlokBlash
 
 Merhaba! Bu, staj başvurusu için geliştirdiğim, çökme/patlama mekaniğine sahip basit bir blok patlatma oyunudur. Proje, seviye tasarımı veya puanlama sistemleri gibi ek özellikler olmadan temel oyun mantığına odaklanmaktadır.
 
