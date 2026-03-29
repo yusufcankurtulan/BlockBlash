@@ -1,33 +1,33 @@
-# Block-Blash
+# Blok Patlatma
 
-Hello! This is a simple block-blasting game with collapse/explosion mechanics that I developed for an internship application. The project focuses on core gameplay logic without additional features like level design or scoring systems.
+Merhaba! Bu, staj başvurusu için geliştirdiğim, çökme/patlama mekaniğine sahip basit bir blok patlatma oyunudur. Proje, seviye tasarımı veya puanlama sistemleri gibi ek özellikler olmadan temel oyun mantığına odaklanmaktadır.
 
-## Features
+## Özellikler
 
-- Block matching and destruction mechanics
-- Collapse/explosion effects
-- Basic game loop
+- Blok eşleştirme ve yıkım mekaniği
+- Çökme/patlama efektleri
+- Temel oyun döngüsü
 
-## How to Play
+## Nasıl Oynanır
 
-- Match blocks of the same color to destroy them
-- Create chains for bigger explosions
-- Clear the board to progress
+- Aynı renkteki blokları eşleştirerek yok edin
+- Daha büyük patlamalar için zincirler oluşturun
+- İlerlemek için tahtayı temizleyin
 
-## Installation
+## Kurulum
 
-1. Clone the repository
-2. Open in Unity (version 2021 or later recommended)
-3. Load the SampleScene in Assets/Scenes/
-4. Press Play to run the game
+1. Depoyu klonlayın
+2. Unity'de açın (2021 veya daha yeni sürüm önerilir)
+3. Assets/Scenes/ klasöründeki SampleScene dosyasını yükleyin
+4. Oyunu çalıştırmak için Oynat'a basın
 
-## Project Structure
+## Proje Yapısı
 
-- `Assets/Scripts/`: Core game scripts (Block.cs, GameManager.cs)
-- `Assets/Prefabs/`: Block prefabs
-- `Assets/Scenes/`: Game scenes
-- `Assets/Blocks/`: Block textures
+- `Assets/Scripts/`: Temel oyun komut dosyaları (Block.cs, GameManager.cs)
+- `Assets/Prefabs/`: Blok prefabları
+- `Assets/Scenes/`: Oyun sahneleri
+- `Assets/Blocks/`: Blok dokuları
 
-## Contact
+## İletişim
 
-If you have any questions, feel free to reach out via email on my profile.
+Herhangi bir sorunuz varsa, profilimdeki e-posta adresinden bana ulaşabilirsiniz.
